@@ -3,7 +3,7 @@ package ch;
 import java.util.Scanner;
 
 /**
- * Created by QTY on 2017/2/19.
+ * 输入年月日后判断这是今年第几天
  */
 public class way3 {
     public static void main(String[] args) {
